@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Tracking-System", "Car-Tracking-System\Car-Tracking-System.csproj", "{9B94B3AE-AE2F-4EFC-8D7D-4454F188632B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car-Tacking-System.UnitTests", "Car-Tacking-System.UnitTests\Car-Tacking-System.UnitTests.csproj", "{E788F384-72EF-4546-BD02-E15717FF4283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B94B3AE-AE2F-4EFC-8D7D-4454F188632B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B94B3AE-AE2F-4EFC-8D7D-4454F188632B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B94B3AE-AE2F-4EFC-8D7D-4454F188632B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B94B3AE-AE2F-4EFC-8D7D-4454F188632B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E788F384-72EF-4546-BD02-E15717FF4283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E788F384-72EF-4546-BD02-E15717FF4283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E788F384-72EF-4546-BD02-E15717FF4283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E788F384-72EF-4546-BD02-E15717FF4283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3427C9F4-DE29-45E4-BE07-6CFFFEA44D44}
+	EndGlobalSection
+EndGlobal
